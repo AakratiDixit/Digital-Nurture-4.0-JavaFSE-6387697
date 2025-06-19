@@ -1,0 +1,22 @@
+Question1:
+Compare the time complexity of linear and binary search algorithms.
+
+Solution:
+
+| Search Type   | Time Complexity | Explanation                            |
+| ------------- | --------------- | -------------------------------------- |
+| Linear Search | O(n)            | Checks each product one by one         |
+| Binary Search | O(log n)        | Divides search space in half each time |
+
+
+Question2:
+Discuss which algorithm is more suitable for your platform and why?
+
+Solution:
+1) For small datasets, linear search is acceptable.
+2) For large datasets, binary search is highly recommended because it is much faster.
+
+Binary Search is more suitable for an e-commerce platform because:
+1) Product catalogs can be huge.
+2) Fast search experience is expected by users.
+3) The list can be easily sorted to make binary search work.

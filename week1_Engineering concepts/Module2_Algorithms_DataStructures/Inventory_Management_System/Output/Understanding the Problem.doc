@@ -1,0 +1,16 @@
+Question:
+Explain why data structures and algorithms are essential in handling large inventories.
+
+Solution:
+Data structures and algorithms are essential in handling large inventories because they ensure that data is stored efficiently and operations like searching, adding, updating, and deleting are fast. Without proper data structures, operations would take longer, especially when dealing with thousands of products. Efficient algorithms reduce time complexity and improve system performance.
+
+Question:
+Discuss the types of data structures suitable for this problem.
+
+Solution:
+Suitable data structures are:
+
+1) ArrayList: Good for simple lists where index-based access is required, but not efficient for searching by keys.
+
+2) HashMap: Best for fast access using unique keys (like productId), providing O(1) average time complexity for add, update, delete, and search operations.
+

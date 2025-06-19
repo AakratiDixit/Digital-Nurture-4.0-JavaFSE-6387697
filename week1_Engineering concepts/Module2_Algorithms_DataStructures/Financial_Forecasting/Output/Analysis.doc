@@ -1,0 +1,18 @@
+Time Complexity:
+----------------
+Each recursive call reduces years by 1.
+So total recursive calls = n (number of years).
+Hence, Time Complexity = O(n)
+
+
+Space Complexity:
+-----------------
+Due to the recursive call stack: O(n)
+
+
+Optimization:
+-------------
+Problem: Recursion can be inefficient for large n due to stack memory limits.
+Solution: Convert to Iterative (Tail-Recursive or Loop)
+Time Complexity = O(n)
+Space Complexity = O(1) → More efficient.

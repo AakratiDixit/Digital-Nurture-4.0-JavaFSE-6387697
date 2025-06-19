@@ -1,0 +1,12 @@
+What is Recursion?
+------------------
+Recursion is a programming technique where a method calls itself to solve smaller instances of the same problem. It usually involves:
+
+1) A base case (to stop recursion).
+2) A recursive case (where the method calls itself).
+
+
+Why Use Recursion?
+------------------
+1) Simplifies problems like tree traversal, factorial, Fibonacci, etc.
+2) Helps break down complex problems into simpler subproblems.

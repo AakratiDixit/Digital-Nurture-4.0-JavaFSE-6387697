@@ -1,0 +1,26 @@
+Question1:
+Explain Big O notation and how it helps in analyzing algorithms.
+
+Solution:
+Big O Notation describes how fast or slow an algorithm is based on input size (n).
+It tells us the upper limit (worst-case scenario) of time or space taken by an algorithm as the input grows.
+
+It helps us to:
+----------------
+1) Analyze the efficiency of algorithms.
+2) Choose the best algorithm for large datasets.
+
+
+Question2:
+Describe the best, average, and worst-case scenarios for search operations.
+
+Solution:
+| Case    | Linear Search | Binary Search |
+| ------- | ------------- | ------------- |
+| Best    | O(1)          | O(1)          |
+| Average | O(n)          | O(log n)      |
+| Worst   | O(n)          | O(log n)      |
+
+Best Case: When the item is found immediately.
+Average Case: When the item is found somewhere in the middle.
+Worst Case: When the item is not found (entire array is searched).

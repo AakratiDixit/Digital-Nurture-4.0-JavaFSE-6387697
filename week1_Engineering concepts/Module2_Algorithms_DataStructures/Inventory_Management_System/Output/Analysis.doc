@@ -1,0 +1,20 @@
+Time Complexity for diffirent operations using HashMap:
+-------------------------------------------------------
+
+Operation	 Time Complexity
+-----------------------------
+Add	         O(1)
+Update	     O(1)
+Delete	     O(1)
+Display	     O(n)
+
+Add, update, and delete all take O(1) time in a HashMap because of the direct key-based access.
+Display all products is O(n) because we have to iterate over all products.
+
+
+Optimizations:
+--------------
+
+1) Use a HashMap because of its constant time complexity.
+2) For very large inventories, we can later optimize memory usage or add indexing if required.
+3) For concurrent access (multi-threaded environment), we can use ConcurrentHashMap instead of   HashMap.
