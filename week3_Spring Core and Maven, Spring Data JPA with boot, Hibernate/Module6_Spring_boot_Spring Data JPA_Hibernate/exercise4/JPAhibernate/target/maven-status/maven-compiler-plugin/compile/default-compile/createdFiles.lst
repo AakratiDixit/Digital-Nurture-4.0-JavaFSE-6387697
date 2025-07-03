@@ -1,0 +1,8 @@
+com\example\springdatajpa\ComparisonDemo.class
+com\example\springdatajpa\EmployeeService.class
+com\example\springdatajpa\EmployeeRepository.class
+com\example\hibernate\EmployeeHibernateService.class
+com\example\jpa\Employee.class
+com\example\hibernate\HibernateUtil.class
+com\example\springdatajpa\EmployeeController.class
+com\example\springdatajpa\JpaHibernateComparisonApplication.class
