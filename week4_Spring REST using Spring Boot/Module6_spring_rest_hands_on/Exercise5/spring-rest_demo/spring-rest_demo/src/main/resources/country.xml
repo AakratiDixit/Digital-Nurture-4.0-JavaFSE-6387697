@@ -1,0 +1,14 @@
+<country-list>
+    <country>
+        <code>IN</code>
+        <name>India</name>
+    </country>
+    <country>
+        <code>US</code>
+        <name>United States</name>
+    </country>
+    <country>
+        <code>DE</code>
+        <name>Germany</name>
+    </country>
+</country-list>
